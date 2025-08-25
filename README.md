@@ -1,4 +1,8 @@
-## Hi there 👋
+## Greetings
+My name is Caleb, a University of Arizona student who is incredibly interested in programming and systems engineering.
+I ejoy many things none of which i particularly want to expose to the public. I hate social media and this already feels like one.
+
+Dont use my code, it's bad.
 
 <!--
 **Caleb-Fails/Caleb-Fails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
